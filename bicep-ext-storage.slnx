@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Bicep.Extension.Storage.Tests/Bicep.Extension.Storage.Tests.csproj" />
+  <Project Path="src/Bicep.Extension.Storage/Bicep.Extension.Storage.csproj" />
+</Solution>

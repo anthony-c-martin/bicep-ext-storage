@@ -1,0 +1,10 @@
+{
+  "experimentalFeaturesEnabled": {
+    "localDeploy": true,
+    "ociEnabled": true
+  },
+  "extensions": {
+    "storage": "br:ghcr.io/anthony-c-martin/bicep-ext-storage:0.0.1"
+  },
+  "implicitExtensions": []
+}
